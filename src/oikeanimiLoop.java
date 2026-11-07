@@ -27,6 +27,7 @@ public class oikeanimiLoop {
 
         
         System.out.println("You guessed " + yritykset + " times.");
+        System.out.println("You are awesome!");
         scanner.close();
     }
 }
